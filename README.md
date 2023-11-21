@@ -3,12 +3,12 @@ Cet outil permet de lancer des commandes ChatGPT en masse et de récupérer le r
 
 Lance le index.html et enjoy.
 
-Vous pouvez le tester directement ici : 
+Vous pouvez le tester directement ici : https://devenirentrepreneurweb.fr/tools/chatgpt-bulk/index.html
 
 ![Screenshot](screenshot.jpg)
 
 
-Mes liens : https://devenirentrepreneurweb.fr/tools/chatgpt-bulk/index.html
+Mes liens :
 
 Chaine youtube : https://www.youtube.com/channel/UCNFED93Cb1U6-QnrVXZlBkw
 
