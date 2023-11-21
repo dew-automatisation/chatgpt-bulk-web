@@ -8,7 +8,7 @@ Vous pouvez le tester directement ici :
 ![Screenshot](screenshot.jpg)
 
 
-Mes liens :
+Mes liens : https://devenirentrepreneurweb.fr/tools/chatgpt-bulk/index.html
 
 Chaine youtube : https://www.youtube.com/channel/UCNFED93Cb1U6-QnrVXZlBkw
 
